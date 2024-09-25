@@ -1,14 +1,14 @@
 # Spatial-Temporal-Channel Collaborative Feature Learning with Transformers for Infrared small target Detection
 
 ## Model
-|![STC](./FIG/model.pdf)|
+|![STC](./FIG/model.png)|
 |:--:|
 |*STC*|
 
 ## PR results on the ITSDT-15K and IRDST datasets
 
 
-| ![pr](./Fig/PR.pdf) |
+| ![pr](./Fig/PR.png) |
 |:--:|
 | *Ipr* |
 
