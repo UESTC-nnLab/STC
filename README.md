@@ -1,7 +1,7 @@
 # Spatial-Temporal-Channel Collaborative Feature Learning with Transformers for Infrared small target Detection
 
 ## Model
-|![STC](./FIG/model.png)|
+|![STC](./Fig/model.png)|
 |:--:|
 |*STC*|
 
